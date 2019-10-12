@@ -40,7 +40,7 @@ This folder contains the code for the SmartEmbed web tool. There are a few impor
 
 ## Contact
 
-vinojmh@smu.edu.sg  
+vinojjayasundara@gmail.com  
 Discussions, suggestions and questions are welcome!
 
 
